@@ -1,0 +1,8 @@
+{
+    "require": {
+        "api-clients/rx": "^2.2",
+        "clue/buzz-react": "^2.6",
+        "react/promise": "^2.7",
+        "react/event-loop": "^1.1"
+    }
+}
